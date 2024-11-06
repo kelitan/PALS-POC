@@ -4,7 +4,7 @@
 
 #from langchain_chroma import Chroma
 
-#def semantic_chunking(documents_loaded, embeddings_model=OpenAIEmbeddings()):
+#def semantic_chunking(documents_loaded, embeddings_model=OpenAIEmbeddings(text-embedding-3-small-prd-gcc2-lb):
 
     # Create the text splitter
     #text_splitter = SemanticChunker(embeddings_model)
